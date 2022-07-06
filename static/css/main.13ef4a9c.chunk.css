@@ -1,0 +1,2 @@
+*{font-family:sans-serif}.App{padding:10px}body{background-color:#cfecec}.list{display:grid;grid-template-columns:repeat(3,1fr);grid-column-gap:24px;-webkit-column-gap:24px;column-gap:24px}.item{height:150px;width:100;color:#253521;border:3px solid #00f;border-radius:10px;margin-bottom:24px;padding:5px;font-size:20px;transition-duration:.5s}.item:hover{-webkit-transform:scale(1.05);transform:scale(1.05);cursor:pointer;background-color:#0ff}
+/*# sourceMappingURL=main.13ef4a9c.chunk.css.map */
